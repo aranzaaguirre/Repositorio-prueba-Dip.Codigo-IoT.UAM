@@ -1,2 +1,1 @@
-# Repositorio-prueba-Dip.Codigo-IoT.UAM
-Repositorio modificable para fork interactivo entre compañeros del grupo
+# Repositorio-prueba-Dip.Codigo-IoT.UAMCreación de repositorio, clonar un repositorio desde Github desktop y desde VSC. Con commit inicial y pullrequest
